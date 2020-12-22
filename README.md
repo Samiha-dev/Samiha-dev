@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here is a short intro about me:
 
 - 🔭 I’m currently working on improving my web development skills
 - 🌱 I’m currently learning React
