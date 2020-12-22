@@ -7,4 +7,4 @@ Here is a short intro about me:
 - 👯 I’m looking to collaborate on web apps using Javascript/React
 - 🤔 I’m looking for Frontend/Fullstack jobs
 - 📫 How to reach me: samiha.chaudhry@gmail.com
-- ⚡ Fun fact: I am a Potterhead
+- ⚡ Fun fact: I am a huge Potterhead
